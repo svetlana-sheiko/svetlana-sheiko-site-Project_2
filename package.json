@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "name": "tms_project2",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1"
+  }
+}

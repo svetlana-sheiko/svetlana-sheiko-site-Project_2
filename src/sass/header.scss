@@ -1,0 +1,119 @@
+.activebox{
+    padding: 0px 0px 70px 0px;
+}
+//first-part of activebox
+.header {
+    width: 100%;
+    max-width: 1510px;
+    padding: 30px 0;
+   display: flex;
+   justify-content: space-between;
+   border-bottom: 2px solid #BABBC5;
+//    &::after{
+//     content: "";
+//     display: block;
+//     background-color: black;
+//     height: 2px;
+//     width: 64px;
+//     margin: 34px auto;
+//     position: relative;
+//     right: 50%;
+//    }
+  }
+
+
+
+  //logo 
+  .logo {
+    font-size: $_36px;
+    font-weight: 700;
+    color: #656980;
+    text-transform: uppercase;
+    &:after{
+        content: "box";
+        display: inline-block;
+        font-weight:200;
+        color: #FFFFFF;
+    }
+  }
+
+//nav list
+  .navigation {
+    display: flex;
+    align-items: center;
+    .navigation-list{
+        display: flex;
+    
+    .navigation-list-item{
+        margin-left: 60px;
+        a{
+            color: $white;
+            text-transform: uppercase;
+            font-size: $_13px;
+            font-weight: 700;
+            line-height: 15.3px;
+           
+        }
+    &:first-child{
+        margin-left: 0;
+    }
+    }
+    }
+  }
+ 
+ //secondpart of activebox section
+ .secondpart{
+     .title{
+         font-size: $_64px;
+         font-weight: 900;
+        //  line-height: 75px;
+         color: $white;
+         text-align: center;
+         text-transform: uppercase;
+         margin-bottom: 30px;
+     }
+     .secondpart-text{
+         font-size: $_24px;
+         font-weight: 400;
+         color: $white;
+         text-align: center;
+         margin-bottom: 82px;
+         padding: 0 100px;
+
+     }
+     .button_activebox{
+         display: block;
+         margin: auto;
+         text-transform: uppercase;
+         width: 370px;
+         height: 80px;
+         border: none;
+         background-color: $button_normal;
+         font-size: $_24px;
+         font-weight: 900;
+         color: $white;
+     }
+
+ }
+ //activebox офромление бэкграунда с маской
+   /* временно для activebox*/
+   .activebox{
+    background:url(../images/background_header.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    z-index: 2;
+  
+    &::after{
+        content: "";
+        display: block;
+        background: rgba(37, 43, 73, 0.8);
+        position: absolute;
+        top:0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        z-index: -2;
+    }
+}

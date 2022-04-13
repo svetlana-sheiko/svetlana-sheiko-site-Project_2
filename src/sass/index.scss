@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+@import "cdn.scss";
+@import "variables.scss";
+@import "header.scss";
+@import"features.scss";
+html{
+    font-family: "Raleway";
+}
+.container{
+    max-width: 1510px;
+    margin: auto;
+    padding: 0 15px;
+}
+
+// section {
+//     padding: 70px 0;
+//   }
+
+  .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 130px;
+  }
+
