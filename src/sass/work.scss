@@ -1,0 +1,16 @@
+.work-element{
+    width: 25%;
+    max-width: 378px;
+    img{
+         width: 378px;
+        height: 340px;
+    }
+}
+//positioning photos
+.work-wrap {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+  
+}
