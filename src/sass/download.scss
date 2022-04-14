@@ -1,0 +1,41 @@
+.download{
+    padding: 70px 170px;
+    padding-bottom: 114px;
+    background-color: $white;
+
+}
+
+.download-title{
+    font-size: $_30px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    padding: 15px 50px;
+    margin-bottom: 10px;
+
+}
+.download-text{
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    font-weight: 700;
+    font-size: $_18px;
+    margin-bottom: 50px;
+}
+//btn
+.download-btn{
+    width: 370px;
+    height: 80px;
+    display: block;
+    margin: auto;
+    text-transform: uppercase;
+    font-size: $_24px;
+    font-weight: 900;
+    // text-decoration: none;
+    background-color: $button_normal ;
+    border: none;
+    a{
+        color: $white
+    }
+}
+

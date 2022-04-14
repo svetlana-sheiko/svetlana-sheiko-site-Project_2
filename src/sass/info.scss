@@ -1,0 +1,57 @@
+.info{
+    background-color: #353C65;
+    padding: 70px 0px;
+    padding-bottom: 50px;
+}
+//wraap
+.info-wrap{
+    display:flex;
+    justify-content: space-between;
+}
+
+//чтобы ссылки были ниже тескста в крайних карточках
+.content-links{
+    padding-top: 15px;
+}
+
+
+.info-item{
+width:370px;
+margin-bottom: 15px;
+.info-item-title{
+    text-transform: uppercase;
+    color: $white;
+    text-align: center;
+    margin-bottom: 29px;
+}
+.info-item-content{
+    color:$white;
+    text-align: center;
+}
+
+.icon-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    .icon{
+        width: 39px;
+        height: 39px;
+        border:1px solid $frame_border;
+        margin-right: 6px;
+        &:last-child{
+            margin-right: 0px;
+        }
+        a{
+            height: 100%;
+            font-size: $_18px;
+            color: $frame_border;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}
+
+
+}
+
