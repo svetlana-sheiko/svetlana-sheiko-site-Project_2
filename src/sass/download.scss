@@ -24,6 +24,16 @@
 }
 //btn
 .download-btn{
+    &:hover{
+        background-color: $button_hover;
+        transition: 0.2s;
+
+    }
+    &:active{
+        background-color: $button_normal;
+     box-shadow: 4px 4px 30px $button_normal;
+        transition: 0.2s;
+    }
     width: 370px;
     height: 80px;
     display: block;
@@ -31,11 +41,17 @@
     text-transform: uppercase;
     font-size: $_24px;
     font-weight: 900;
-    // text-decoration: none;
     background-color: $button_normal ;
     border: none;
+    transition: 0.2s;
     a{
         color: $white
     }
+   
 }
+
+  
+
+
+
 
