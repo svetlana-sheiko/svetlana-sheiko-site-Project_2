@@ -2,12 +2,18 @@
     background-color: #2C3154;
     padding: 24px 0px;
     .footer-content {
+        @media (max-width:1024px) {
+            max-width:314px;
+        }
        text-align: center; 
        max-width:370px;
        margin: auto;
      
     
     p{
+        @media (max-width:1024px) {
+            font-size: 14px;
+        }
         color:#808080;
         font-size: $_18px;
         font-weight: 400;

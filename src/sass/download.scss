@@ -1,4 +1,8 @@
 .download{
+    @media (max-width:1024px) {
+        padding-bottom: 78px;
+        padding: 70px 150px;
+    }
     padding: 70px 170px;
     padding-bottom: 114px;
     background-color: $white;
@@ -6,6 +10,9 @@
 }
 
 .download-title{
+    @media (max-width:1024px) {
+        font-size: $_24px;
+    }
     font-size: $_30px;
     font-weight: 500;
     color: rgba(0, 0, 0, 1);
@@ -15,6 +22,9 @@
 
 }
 .download-text{
+    @media (max-width:1024px) {
+        font-size: $_13px;
+    }
     text-transform: uppercase;
     color: rgba(0, 0, 0, 1);
     text-align: center;
@@ -33,6 +43,11 @@
         background-color: $button_normal;
      box-shadow: 4px 4px 30px $button_normal;
         transition: 0.2s;
+    }
+    @media (max-width:1024px) {
+        width: 313px;
+        height: 77px;
+        font-size: $_18px;
     }
     width: 370px;
     height: 80px;

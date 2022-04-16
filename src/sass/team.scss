@@ -2,8 +2,16 @@
 
 .our_team{
     max-width: 1510px;
+
+    @media (max-width:1024px) {
+        max-width: 1024px;
+    }
     .container{
-        padding: 114px 170px;
+        padding: 100px 140px;
+        @media (max-width:1024px){
+            padding: 90px 30px;
+            padding-bottom: 10px;
+        }
     }
 }
 //wrap
@@ -17,11 +25,19 @@
 }
 //card 
 .team-card{
-    // width:25%;
+
+    @media (max-width:1024px) {
+        width: 225px;
+    }
     width: 270px;
     margin-bottom: 10px;
 
 .person-photo{
+    @media (max-width:1024px) {
+        width: 225px;
+        height: 225px;
+        margin-bottom: 20px;
+    }
     width: 270px;
     height: 270px;
     margin-bottom: 30px;
@@ -32,12 +48,18 @@
 }
 .person-title{
     h4{
+        @media (max-width:1024px) {
+            font-size: $_18px;
+        }
         font-size: $_24px;
         font-weight: 700;
         color: $cards_title;
         margin-bottom: 6px;
     }
     h5{
+        @media (max-width:1024px) {
+            font-size: $_13px;
+        }
         font-size: $_18px;
         font-weight: 400;
         text-transform: uppercase;
@@ -46,6 +68,9 @@
     }
 }
 .person-text{
+    @media (max-width:1024px) {
+        font-size: $_13px;
+    }
     color: $cards_text;
     font-weight: normal;
     font-size: $_18px;
@@ -56,6 +81,10 @@
     display: flex;
     flex-direction: row;
     .icon{
+        @media (max-width:1024px) {
+            width: 31px;
+            height: 31px;
+        }
         width: 39px;
         height: 39px;
         border:1px solid $frame_border;
@@ -64,6 +93,9 @@
             margin-right: 0px;
         }
         a{
+            @media (max-width:1024px) {
+                font-size: 15px;
+            }
             height: 100%;
             font-size: $_18px;
             color: $frame_border;

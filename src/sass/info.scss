@@ -11,22 +11,37 @@
 
 //чтобы ссылки были ниже тескста в крайних карточках
 .content-links{
+    @media (max-width:1024px) {
+        padding-top: 10px;
+    }
     padding-top: 15px;
 }
 
 
 .info-item{
+    @media (max-width:1024px) {
+        width:315px;
+    }
 width:370px;
 margin-bottom: 15px;
 .info-item-title{
+    @media (max-width:1024px) {
+        font-size: $_13px; 
+        margin-bottom: 17px;
+    }
     text-transform: uppercase;
     color: $white;
     text-align: center;
     margin-bottom: 29px;
+    font-size: $_18px;
 }
 .info-item-content{
+    @media (max-width:1024px) {
+        font-size: $_13px; 
+    }
     color:$white;
     text-align: center;
+    font-size: $_18px ;
 }
 
 .icon-list{
@@ -34,6 +49,10 @@ margin-bottom: 15px;
     flex-direction: row;
     justify-content: center;
     .icon{
+        @media (max-width:1024px) {
+            width: 33px;
+            height: 33px;  
+        }
         width: 39px;
         height: 39px;
         border:1px solid $frame_border;
@@ -42,6 +61,9 @@ margin-bottom: 15px;
             margin-right: 0px;
         }
         a{
+            @media (max-width:1024px) {
+                font-size: $_13px;
+            }
             height: 100%;
             font-size: $_18px;
             color: $frame_border;

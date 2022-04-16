@@ -20,6 +20,12 @@ html{
     font-family: "Raleway";
 }
 .container{
+  //adaptive tablet
+  @media (max-width:1024px) {
+ max-width:1024px;
+margin: auto;
+padding: 0 15px;
+  }
     max-width: 1510px;
     margin: auto;
     padding: 0 15px;
@@ -30,6 +36,10 @@ html{
 //   }
 
   .wrapper {
+    @media  (max-width:1024px){
+      margin-bottom: 157px;
+
+    }
     display: flex;
     justify-content: space-between;
     align-items: center;
