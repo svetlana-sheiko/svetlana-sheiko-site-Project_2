@@ -1,4 +1,11 @@
 .work-element{
+    @media (max-width:320px) {
+        width: 50%;
+    }
+    @media (max-width:800px) {
+        width: 50%;
+    }
+   
     width: 25%;
     // max-width: 100%;
     display: flex;
@@ -7,18 +14,19 @@
     z-index: 1;
   
     img{
-        //  width: 378px;
-        // height: 340px;
         width: 100%;
         height: 100%;
     }
 }
 //positioning photos
 .work-wrap {
+    @media (max-width:800px) {
+         
+        flex-wrap: wrap;
+     }
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    // margin: 0 -15px;
     max-width: 100%;
   
 }
@@ -27,6 +35,23 @@
 .work-element:hover{
 
     &::before{
+     
+        @media (max-width:800px) {
+            font-size: $_36px;
+            top:40%
+        }
+        @media (max-width:600px) {
+            font-size: $_24px;
+            top:40%
+        }
+        @media (max-width:400px) {
+            font-size: $_18px;
+            
+        }
+        @media (max-width:320px) {
+            font-size: $_18px;
+            top:40%
+        }
         content:  "progect name ";
         color: $white;
         font-size: $_24px;
@@ -45,6 +70,27 @@
         }
  
     &::after{
+        @media (max-width:800px) {
+            font-size: $_24px;
+            padding-top: 50px;
+        }
+        @media (max-width:600px) {
+            font-size: $_18px;
+            padding-top: 40px;
+        }
+        @media (max-width:500px) {
+            padding-top: 30px;
+        }
+     
+        @media (max-width:400px) {
+            font-size: $_13px; 
+            padding-top: 20px; 
+        }
+        @media (max-width:320px) {
+            font-size: $_13px;
+            padding-top: 20px;
+            
+        }
     content:  "User Interface Design ";
     color: $white;
     font-size: $_18px;
@@ -69,6 +115,22 @@
 .work-element:active{
 
     &::before{
+     @media (max-width:800px) {
+            font-size: $_36px;
+            top:40%
+        }
+        @media (max-width:600px) {
+            font-size: $_24px;
+            top:40%
+        }
+        @media (max-width:400px) {
+            font-size: $_18px;
+            
+        }
+        @media (max-width:320px) {
+            font-size: $_18px;
+            top:40%
+        }
         content:  "progect name ";
         color: $white;
         font-size: $_24px;
@@ -87,8 +149,27 @@
         }
  
     &::after{
-    content:  "User Interface Design ";
-    color: $white;
+        @media (max-width:800px) {
+            font-size: $_24px;
+            padding-top: 50px;
+        }
+        @media (max-width:600px) {
+            font-size: $_18px;
+            padding-top: 40px;
+        }
+        @media (max-width:500px) {
+            padding-top: 30px;
+        }
+        @media (max-width:400px) {
+            font-size: $_13px;
+            padding-top: 20px;  
+        }
+        @media (max-width:320px) {
+            font-size: $_13px;
+            padding-top: 20px;
+            
+        }
+ color: $white;
     font-size: $_18px;
     text-align: center;
     max-width: 100%;

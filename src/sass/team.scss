@@ -6,16 +6,32 @@
     @media (max-width:1024px) {
         max-width: 1024px;
     }
+    @media (max-width:320px) {
+        max-width: 320px;
+    }
     .container{
         padding: 100px 140px;
         @media (max-width:1024px){
             padding: 90px 30px;
             padding-bottom: 10px;
         }
+        @media (max-width:320px){
+            padding: 35px 20px;
+           // padding-bottom: 10px;
+        }
     }
 }
 //wrap
 .team-wrap{
+    @media (max-width:540px) {
+        
+        justify-content: center;
+    }
+    @media (max-width:320px) {
+        margin: 0;
+        justify-content: center;
+    }
+  
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -29,8 +45,14 @@
     @media (max-width:1024px) {
         width: 225px;
     }
+    @media (max-width:320px) {
+        width: 280px;
+        margin-bottom: 50px;
+    }
     width: 270px;
+    margin: 0 15px;
     margin-bottom: 10px;
+
 
 .person-photo{
     @media (max-width:1024px) {
@@ -38,6 +60,12 @@
         height: 225px;
         margin-bottom: 20px;
     }
+    @media (max-width:320px) {
+        width: 280px;
+        height: 280px;
+        margin-bottom: 20px;
+    }
+
     width: 270px;
     height: 270px;
     margin-bottom: 30px;
@@ -60,6 +88,10 @@
         @media (max-width:1024px) {
             font-size: $_13px;
         }
+        @media (max-width:320px) {
+            font-size: $_13px;
+            margin-bottom: 30px;
+        }
         font-size: $_18px;
         font-weight: 400;
         text-transform: uppercase;
@@ -70,6 +102,11 @@
 .person-text{
     @media (max-width:1024px) {
         font-size: $_13px;
+    }
+    @media (max-width:320px) {
+        max-width:280px;
+        font-size: $_13px;
+        margin-bottom: 50px;
     }
     color: $cards_text;
     font-weight: normal;

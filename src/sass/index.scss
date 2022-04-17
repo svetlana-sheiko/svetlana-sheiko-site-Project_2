@@ -14,6 +14,7 @@
 @import"download.scss";
 @import"info.scss";
 @import"footer.scss";
+@import"burger.scss";
 
 
 html{
@@ -23,9 +24,12 @@ html{
   //adaptive tablet
   @media (max-width:1024px) {
  max-width:1024px;
-margin: auto;
-padding: 0 15px;
   }
+
+   //adaptive mobile
+   @media (max-width:320px) {
+    max-width:320px;
+     }
     max-width: 1510px;
     margin: auto;
     padding: 0 15px;
@@ -35,15 +39,4 @@ padding: 0 15px;
 //     padding: 70px 0;
 //   }
 
-  .wrapper {
-    @media  (max-width:1024px){
-      margin-bottom: 157px;
-
-    }
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    margin-bottom: 130px;
-  }
 
