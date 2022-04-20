@@ -21,6 +21,9 @@ html{
     font-family: "Raleway";
 }
 .container{
+    @media (max-width:1510px) {
+        max-width:1510px;
+         }
   //adaptive tablet
   @media (max-width:1024px) {
  max-width:1024px;
@@ -31,12 +34,16 @@ html{
     max-width:320px;
      }
     max-width: 1510px;
+    // max-width:1170px;
     margin: auto;
     padding: 0 15px;
 }
 
 // section {
-//     padding: 70px 0;
+//     @media (max-width:1510px) {
+//         max-width: 1510px;
+//     }
+//     max-width:1170px;
 //   }
 
 

@@ -21,6 +21,18 @@
       padding: 116px 0px;
     
     .features-item {
+      @media (max-width:1200px) {
+        width: 350px;
+        margin-bottom: 90px;
+      }
+      @media (max-width:1140px) {
+        width: 320px;
+        margin-bottom: 80px;
+      }
+      @media (max-width:1150px) {
+        width: 300px;
+        margin-bottom: 70px;
+      }
       @media (max-width:1024px) {
         width: 300px;
         margin-bottom: 70px;

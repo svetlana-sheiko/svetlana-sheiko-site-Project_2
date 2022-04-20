@@ -1,11 +1,22 @@
 .activebox{
+ 
+  @media (max-width:1400px){   
+    padding: 0px 50px 100px 50px;      
+}
+@media (max-width:1300px){   
+  padding: 0px 30px 100px 30px;      
+}
+@media (max-width:1200px){   
+  padding: 0px 20px 100px 20px;      
+}
+  
     @media (max-width:1024px){   
         padding: 0px 0px 100px 0px;      
     }
     @media (max-width:320px){   
         padding: 0px 0px 50px 0px;      
     }
-    padding: 0px 0px 70px 0px;
+    padding: 0px 100px 100px 100px;
 }
 
 

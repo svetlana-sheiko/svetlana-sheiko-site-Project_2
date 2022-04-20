@@ -1,7 +1,7 @@
-4220
+4221
 71D:\TEMPLATE2\node_modules\@parcel\bundler-default\lib\DefaultBundler.js132943316463482623 0
 62D:\TEMPLATE2\node_modules\htmlnano\docs\docs\060-contribute.md132943316442027860 0
-21D:\TEMPLATE2\src\sass132944163414452543 1
+21D:\TEMPLATE2\src\sass132946759909968940 1
 55D:\TEMPLATE2\node_modules\@parcel\utils\src\Deferred.js132943316464305187 0
 56D:\TEMPLATE2\node_modules\node-addon-api\tools\README.md132943316436911210 0
 47D:\TEMPLATE2\node_modules\node-releases\LICENSE132943316426858985 0
@@ -13,7 +13,7 @@
 63D:\TEMPLATE2\node_modules\@parcel\core\lib\public\Dependency.js132943316473458591 0
 38D:\TEMPLATE2\node_modules\terser\tools132943316441858305 1
 56D:\TEMPLATE2\node_modules\type-fest\source\value-of.d.ts132943316438686551 0
-17D:\TEMPLATE2\dist132946731558410923 1
+17D:\TEMPLATE2\dist132948695207767910 1
 44D:\TEMPLATE2\node_modules\msgpackr\pack.d.ts132943316437978367 0
 67D:\TEMPLATE2\node_modules\@parcel\core\test\fixtures\custom-targets132943316475305027 1
 46D:\TEMPLATE2\node_modules\picocolors\README.md132943316429282200 0
@@ -47,7 +47,7 @@
 34D:\TEMPLATE2\node_modules\entities132943316432842671 1
 22D:\TEMPLATE2\README.md132944176742138007 0
 57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\BH.js132943316441299813 0
-27D:\TEMPLATE2\src\index.html132946065815380969 0
+27D:\TEMPLATE2\src\index.html132946790056188936 0
 67D:\TEMPLATE2\node_modules\caniuse-lite\data\features\geolocation.js132943316448142757 0
 52D:\TEMPLATE2\node_modules\@parcel\css-win32-x64-msvc132943316430309468 1
 52D:\TEMPLATE2\node_modules\@babel\highlight\README.md132943316425023613 0
@@ -61,9 +61,12 @@
 19D:\TEMPLATE2\src\js132943322272717035 1
 54D:\TEMPLATE2\node_modules\css-what\lib\es\stringify.js132943316423672089 0
 53D:\TEMPLATE2\node_modules\node-addon-api\CHANGELOG.md132943316436472401 0
+62D:\TEMPLATE2\node_modules\@parcel\package-manager\src\utils.js132943316471769102 0
+49D:\TEMPLATE2\node_modules\color-name\package.json132943316426669237 0
+33D:\TEMPLATE2\src\sass\burger.scss132946783330477408 0
 53D:\TEMPLATE2\node_modules\binary-extensions\readme.md132943328034396442 0
 30D:\TEMPLATE2\src\sass\cdn.scss132943544241753850 0
-35D:\TEMPLATE2\src\sass\download.scss132946128100927190 0
+35D:\TEMPLATE2\src\sass\download.scss132946794730112972 0
 37D:\TEMPLATE2\node_modules\glob-parent132943328035927702 1
 63D:\TEMPLATE2\node_modules\@parcel\transformer-babel\lib\flow.js132943316450459020 0
 45D:\TEMPLATE2\node_modules\nan\nan_callbacks.h132943316429591377 0
@@ -73,16 +76,16 @@
 54D:\TEMPLATE2\node_modules\htmlnano\docs\versioned_docs132943316440621622 1
 64D:\TEMPLATE2\node_modules\yaml\browser\dist\warnings-df54cb69.js132943316440472031 0
 46D:\TEMPLATE2\node_modules\terser\lib\minify.js132943316439394903 0
-35D:\TEMPLATE2\src\sass\features.scss132946715764280029 0
+35D:\TEMPLATE2\src\sass\features.scss132948683749252139 0
 44D:\TEMPLATE2\node_modules\nan\doc\v8_misc.md132943316439335061 0
 57D:\TEMPLATE2\node_modules\sass\types\legacy\importer.d.ts132943328037543361 0
 40D:\TEMPLATE2\node_modules\sass\README.md132943328037433665 0
-33D:\TEMPLATE2\src\sass\footer.scss132946135321828578 0
+33D:\TEMPLATE2\src\sass\footer.scss132946755888213250 0
 58D:\TEMPLATE2\node_modules\css-what\lib\commonjs\parse.d.ts132943316430618626 0
 52D:\TEMPLATE2\node_modules\svgo\plugins\removeDesc.js132943316439594361 0
-33D:\TEMPLATE2\src\sass\header.scss132946706905620676 0
+33D:\TEMPLATE2\src\sass\header.scss132948693333987425 0
 57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\MD.js132943316449502606 0
-32D:\TEMPLATE2\src\sass\index.scss132946700476750766 0
+32D:\TEMPLATE2\src\sass\index.scss132948690873295628 0
 37D:\TEMPLATE2\node_modules\yaml\map.js132943316433345406 0
 60D:\TEMPLATE2\node_modules\css-tree\lib\syntax\node\Atrule.js132943316428125318 0
 81D:\TEMPLATE2\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map132943316469919865 0
@@ -101,11 +104,11 @@
 40D:\TEMPLATE2\node_modules\csso\lib\clean132943316440162837 1
 73D:\TEMPLATE2\node_modules\lmdb\prebuilds\darwin-x64\node.abi88.glibc.node132943316506301257 0
 47D:\TEMPLATE2\node_modules\buffer-from\readme.md132943316422844284 0
-31D:\TEMPLATE2\src\sass\info.scss132946133677200006 0
+31D:\TEMPLATE2\src\sass\info.scss132946806387772632 0
 78D:\TEMPLATE2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc.c132943316441838358 0
 58D:\TEMPLATE2\node_modules\type-fest\source\promisable.d.ts132943316437290205 0
 31D:\TEMPLATE2\node_modules\chalk132943316455288413 1
-31D:\TEMPLATE2\src\sass\team.scss132946732380221859 0
+31D:\TEMPLATE2\src\sass\team.scss132948696627223802 0
 63D:\TEMPLATE2\node_modules\@swc\helpers\src\_get_prototype_of.js132943316445270179 0
 75D:\TEMPLATE2\node_modules\@parcel\transformer-svg\test\parseFuncIRI.test.js132943316440900862 0
 70D:\TEMPLATE2\node_modules\@swc\helpers\src\_interop_require_default.js132943316445439730 0
@@ -119,7 +122,7 @@
 37D:\TEMPLATE2\node_modules\xxhash-wasm132943316432992275 1
 71D:\TEMPLATE2\node_modules\caniuse-lite\data\features\input-inputmode.js132943316448776099 0
 42D:\TEMPLATE2\node_modules\lmdb\external.js132943316445439730 0
-31D:\TEMPLATE2\src\sass\work.scss132946725367661970 0
+31D:\TEMPLATE2\src\sass\work.scss132946828433863797 0
 74D:\TEMPLATE2\node_modules\@swc\helpers\lib\_check_private_redeclaration.js132943316436213112 0
 53D:\TEMPLATE2\node_modules\@parcel\transformer-svg\src132943316441100328 1
 58D:\TEMPLATE2\node_modules\css-tree\lib\generator\create.js132943316436372666 0
@@ -283,9 +286,9 @@
 31D:\TEMPLATE2\node_modules\acorn132943316424071034 1
 61D:\TEMPLATE2\node_modules\caniuse-lite\data\features\fetch.js132943316447871705 0
 107D:\TEMPLATE2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\bar.js132943316437419869 0
-68D:\TEMPLATE2\node_modules\terser\node_modules\commander\CHANGELOG.md132943316472287698 0
 56D:\TEMPLATE2\node_modules\source-map-support\register.js132943316422844284 0
 69D:\TEMPLATE2\node_modules\@parcel\core\test\fixtures\config-malformed132943316471250590 1
+68D:\TEMPLATE2\node_modules\terser\node_modules\commander\CHANGELOG.md132943316472287698 0
 37D:\TEMPLATE2\node_modules\ansi-styles132943316429292204 1
 48D:\TEMPLATE2\node_modules\domelementtype\LICENSE132943316423622211 0
 34D:\TEMPLATE2\node_modules\chokidar132943328035987550 1
@@ -798,7 +801,7 @@
 56D:\TEMPLATE2\node_modules\svgo\plugins\removeUnusedNS.js132943316441080387 0
 57D:\TEMPLATE2\node_modules\yaml\browser\types\timestamp.js132943316439534527 0
 42D:\TEMPLATE2\node_modules\lmdb\src\txn.cpp132943316443933752 0
-40D:\TEMPLATE2\dist\work_3jpg.0ed9dc6f.jpg132946698781861276 0
+40D:\TEMPLATE2\dist\work_3jpg.0ed9dc6f.jpg132948686934578555 0
 72D:\TEMPLATE2\node_modules\lmdb\prebuilds\linux-x64\node.abi102.musl.node132943316480125438 0
 62D:\TEMPLATE2\node_modules\css-tree\lib\syntax\node\Selector.js132943316445060739 0
 68D:\TEMPLATE2\node_modules\css-select\lib\pseudo-selectors\pseudos.js132943316429591377 0
@@ -1103,8 +1106,8 @@
 50D:\TEMPLATE2\node_modules\terser\dist\package.json132943316441229986 0
 39D:\TEMPLATE2\node_modules\escalade\sync132943316431476351 1
 50D:\TEMPLATE2\node_modules\timsort\build\timsort.js132943316429770905 0
-36D:\TEMPLATE2\node_modules\terser\lib132943316440970702 1
 89D:\TEMPLATE2\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-bdb.txt132943316531312728 0
+36D:\TEMPLATE2\node_modules\terser\lib132943316440970702 1
 40D:\TEMPLATE2\node_modules\terser\LICENSE132943316428693786 0
 61D:\TEMPLATE2\node_modules\caniuse-lite\data\features\xhtml.js132943316453977788 0
 57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\JE.js132943316448903001 0
@@ -1371,7 +1374,7 @@
 59D:\TEMPLATE2\node_modules\htmlnano\docs\docs\040-presets.md132943316441339686 0
 73D:\TEMPLATE2\node_modules\caniuse-lite\data\features\css-initial-value.js132943316446767589 0
 47D:\TEMPLATE2\node_modules\boolbase\package.json132943316424081055 0
-37D:\TEMPLATE2\dist\icon_1.ef785930.png132946698781861276 0
+37D:\TEMPLATE2\dist\icon_1.ef785930.png132948686934578555 0
 61D:\TEMPLATE2\node_modules\mdn-data\css\properties.schema.json132943316436522255 0
 66D:\TEMPLATE2\node_modules\source-map-js\lib\source-map-consumer.js132943328036446300 0
 60D:\TEMPLATE2\node_modules\css-tree\lib\common\TokenStream.js132943316445529486 0
@@ -1580,7 +1583,7 @@
 72D:\TEMPLATE2\node_modules\lmdb\prebuilds\linux-x64\node.abi88.glibc.node132943316508965260 0
 74D:\TEMPLATE2\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js132943316450818105 0
 76D:\TEMPLATE2\node_modules\caniuse-lite\data\features\css-text-orientation.js132943316447147400 0
-37D:\TEMPLATE2\dist\icon_3.714ea6c6.png132946698781861276 0
+37D:\TEMPLATE2\dist\icon_3.714ea6c6.png132948686934578555 0
 49D:\TEMPLATE2\node_modules\entities\lib\index.d.ts132943316435793844 0
 57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\GQ.js132943316448292395 0
 39D:\TEMPLATE2\node_modules\picomatch\lib132943328037074620 1
@@ -1664,7 +1667,7 @@
 42D:\TEMPLATE2\node_modules\globals\index.js132943316429302152 0
 48D:\TEMPLATE2\node_modules\nth-check\package.json132943316427626673 0
 66D:\TEMPLATE2\node_modules\binary-extensions\binary-extensions.json132943328034216913 0
-38D:\TEMPLATE2\dist\favicon.c3d66290.png132946698781871260 0
+38D:\TEMPLATE2\dist\favicon.c3d66290.png132948686934578555 0
 45D:\TEMPLATE2\node_modules\nth-check\README.md132943316430129931 0
 60D:\TEMPLATE2\node_modules\lines-and-columns\build\index.d.ts132943316426908559 0
 54D:\TEMPLATE2\node_modules\cosmiconfig\dist\readFile.js132943316431476351 0
@@ -1929,7 +1932,7 @@
 75D:\TEMPLATE2\node_modules\lmdb\prebuilds\darwin-arm64\node.abi88.glibc.node132943316505148188 0
 38D:\TEMPLATE2\node_modules\htmlnano\lib132943316433455127 1
 75D:\TEMPLATE2\node_modules\lmdb\prebuilds\darwin-arm64\node.abi93.glibc.node132943316516825666 0
-37D:\TEMPLATE2\dist\icon_2.3b20c15c.png132946698783024773 0
+37D:\TEMPLATE2\dist\icon_2.3b20c15c.png132948686935312681 0
 57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\BI.js132943316441419481 0
 45D:\TEMPLATE2\node_modules\lmdb\dist\index.cjs132943316443397003 0
 68D:\TEMPLATE2\node_modules\@parcel\hash\parcel-hash.darwin-arm64.node132943316441559243 0
@@ -2095,7 +2098,6 @@
 48D:\TEMPLATE2\node_modules\@parcel\codeframe\test132943316439175439 1
 43D:\TEMPLATE2\node_modules\js-tokens\LICENSE132943316425661895 0
 48D:\TEMPLATE2\node_modules\js-tokens\package.json132943316424455124 0
-57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\TH.js132943316452657523 0
 65D:\TEMPLATE2\node_modules\caniuse-lite\data\features\xhtmlsmil.js132943316453987774 0
 44D:\TEMPLATE2\node_modules\is-number\index.js132943328034197225 0
 73D:\TEMPLATE2\node_modules\@parcel\core\test\fixtures\main-format-mismatch132943316475454624 1
@@ -2320,7 +2322,7 @@
 72D:\TEMPLATE2\node_modules\electron-to-chromium\full-chromium-versions.js132943316428803506 0
 72D:\TEMPLATE2\node_modules\@swc\helpers\src\_object_without_properties.js132943316445778825 0
 63D:\TEMPLATE2\node_modules\electron-to-chromium\full-versions.js132943316429910523 0
-39D:\TEMPLATE2\dist\index.18dbc454.js.map132946698783104524 0
+39D:\TEMPLATE2\dist\index.18dbc454.js.map132948686935432383 0
 65D:\TEMPLATE2\node_modules\electron-to-chromium\full-versions.json132943316432473673 0
 59D:\TEMPLATE2\node_modules\electron-to-chromium\package.json132943316432852672 0
 52D:\TEMPLATE2\node_modules\css-what\lib\es\index.d.ts132943316430219801 0
@@ -2422,7 +2424,7 @@
 88D:\TEMPLATE2\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts132943316469929835 0
 52D:\TEMPLATE2\node_modules\caniuse-lite\data\features132943316453987774 1
 46D:\TEMPLATE2\node_modules\color-name\README.md132943316428374640 0
-37D:\TEMPLATE2\dist\work_7.b5ec7b9e.jpg132946698781881225 0
+37D:\TEMPLATE2\dist\work_7.b5ec7b9e.jpg132948686934618331 0
 86D:\TEMPLATE2\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.js132943316469775279 0
 78D:\TEMPLATE2\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts132943316469939808 0
 82D:\TEMPLATE2\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map132943316469909974 0
@@ -2641,7 +2643,7 @@
 77D:\TEMPLATE2\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs132943316446346754 0
 56D:\TEMPLATE2\node_modules\css-select\lib\attributes.d.ts132943316436681828 0
 57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\PL.js132943316451137232 0
-37D:\TEMPLATE2\dist\icon_4.777039eb.png132946698783034746 0
+37D:\TEMPLATE2\dist\icon_4.777039eb.png132948686935312681 0
 54D:\TEMPLATE2\node_modules\css-select\lib\attributes.js132943316425372741 0
 53D:\TEMPLATE2\node_modules\css-select\lib\compile.d.ts132943316436791544 0
 57D:\TEMPLATE2\node_modules\css-select\lib\compile.d.ts.map132943316432743017 0
@@ -2698,7 +2700,7 @@
 62D:\TEMPLATE2\node_modules\cosmiconfig\dist\getDirectory.js.map132943316436173131 0
 65D:\TEMPLATE2\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts132943316438247630 0
 57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\LR.js132943316449353011 0
-28D:\TEMPLATE2\dist\index.html132946698783214234 0
+28D:\TEMPLATE2\dist\index.html132948686935562078 0
 69D:\TEMPLATE2\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts.map132943316436292872 0
 67D:\TEMPLATE2\node_modules\cosmiconfig\dist\getPropertyByPath.js.map132943316436462419 0
 51D:\TEMPLATE2\node_modules\cosmiconfig\dist\index.js132943316430598680 0
@@ -2717,8 +2719,6 @@
 45D:\TEMPLATE2\node_modules\color-name\index.js132943316427397249 0
 70D:\TEMPLATE2\node_modules\@parcel\transformer-html\src\dependencies.js132943316449303142 0
 44D:\TEMPLATE2\node_modules\color-name\LICENSE132943316427806172 0
-62D:\TEMPLATE2\node_modules\@parcel\package-manager\src\utils.js132943316471769102 0
-49D:\TEMPLATE2\node_modules\color-name\package.json132943316426669237 0
 52D:\TEMPLATE2\node_modules\color-convert\package.json132943316426559503 0
 39D:\TEMPLATE2\node_modules\.bin\svgo.ps1132943316569356092 0
 57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\CX.js132943316447386789 0
@@ -2869,6 +2869,7 @@
 52D:\TEMPLATE2\node_modules\@parcel\watcher\src\shared132943316440362303 1
 57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\SY.js132943316452308450 0
 57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\TC.js132943316452358317 0
+57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\TH.js132943316452657523 0
 57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\TJ.js132943316452667475 0
 46D:\TEMPLATE2\node_modules\@babel\highlight\lib132943316425442491 1
 57D:\TEMPLATE2\node_modules\caniuse-lite\data\regions\TL.js132943316452677453 0
@@ -2928,7 +2929,7 @@
 68D:\TEMPLATE2\node_modules\caniuse-lite\data\features\border-image.js132943316442227322 0
 69D:\TEMPLATE2\node_modules\caniuse-lite\data\features\border-radius.js132943316442356961 0
 63D:\TEMPLATE2\node_modules\@parcel\utils\test\objectHash.test.js132943316471519835 0
-48D:\TEMPLATE2\dist\background_header.1af1f799.png132946698782000909 0
+48D:\TEMPLATE2\dist\background_header.1af1f799.png132948686934777919 0
 72D:\TEMPLATE2\node_modules\caniuse-lite\data\features\broadcastchannel.js132943316442436760 0
 62D:\TEMPLATE2\node_modules\caniuse-lite\data\features\brotli.js132943316442536489 0
 60D:\TEMPLATE2\node_modules\caniuse-lite\data\features\calc.js132943316443287286 0
@@ -3129,7 +3130,7 @@
 72D:\TEMPLATE2\node_modules\@parcel\package-manager\test\fixtures\packages132943316471569617 1
 66D:\TEMPLATE2\node_modules\caniuse-lite\data\features\filereader.js132943316447899207 0
 70D:\TEMPLATE2\node_modules\caniuse-lite\data\features\filereadersync.js132943316447909181 0
-38D:\TEMPLATE2\dist\person3.6c12d724.jpg132946698781891201 0
+38D:\TEMPLATE2\dist\person3.6c12d724.jpg132948686934618331 0
 66D:\TEMPLATE2\node_modules\caniuse-lite\data\features\filesystem.js132943316447909181 0
 64D:\TEMPLATE2\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts132943316472207909 0
 60D:\TEMPLATE2\node_modules\caniuse-lite\data\features\flac.js132943316447929117 0
@@ -3766,7 +3767,6 @@
 61D:\TEMPLATE2\node_modules\@parcel\transformer-babel\README.md132943316450808112 0
 53D:\TEMPLATE2\node_modules\@parcel\transformer-css\src132943316449153541 1
 71D:\TEMPLATE2\node_modules\@parcel\transformer-css\lib\CSSTransformer.js132943316449133597 0
-57D:\TEMPLATE2\node_modules\@parcel\bundler-default\LICENSE132943316463462695 0
 55D:\TEMPLATE2\node_modules\@parcel\transformer-babel\lib132943316450758224 1
 64D:\TEMPLATE2\node_modules\@parcel\transformer-babel\package.json132943316450798117 0
 55D:\TEMPLATE2\node_modules\@parcel\transformer-babel\src132943316450778182 1
@@ -4040,7 +4040,7 @@
 64D:\TEMPLATE2\node_modules\@parcel\core\test\ParcelConfig.test.js132943316474402907 0
 57D:\TEMPLATE2\node_modules\@parcel\core\test\test-utils.js132943316474961409 0
 74D:\TEMPLATE2\node_modules\@parcel\core\test\fixtures\common-targets-ignore132943316475235207 1
-38D:\TEMPLATE2\dist\person1.ba508019.jpg132946698781891201 0
+38D:\TEMPLATE2\dist\person1.ba508019.jpg132948686934618331 0
 77D:\TEMPLATE2\node_modules\@parcel\core\test\fixtures\config-extends-not-found132943316471529760 1
 73D:\TEMPLATE2\node_modules\@parcel\core\test\fixtures\config-node-pipeline132943316471420013 1
 76D:\TEMPLATE2\node_modules\@parcel\core\test\fixtures\config-plugin-not-found132943316471469869 1
@@ -4143,13 +4143,14 @@
 60D:\TEMPLATE2\node_modules\@parcel\codeframe\lib\codeframe.js132943316438806141 0
 64D:\TEMPLATE2\node_modules\@parcel\codeframe\lib\codeframe.js.map132943316442346994 0
 54D:\TEMPLATE2\node_modules\@parcel\cache\src\FSCache.js132943316441339686 0
-37D:\TEMPLATE2\dist\work_6.4c4eda09.jpg132946698783094612 0
+37D:\TEMPLATE2\dist\work_6.4c4eda09.jpg132948686935362594 0
 55D:\TEMPLATE2\node_modules\@parcel\cache\src\IDBCache.js132943316441818409 0
 54D:\TEMPLATE2\node_modules\@parcel\cache\lib\FSCache.js132943316441220012 0
 55D:\TEMPLATE2\node_modules\@parcel\cache\lib\IDBCache.js132943316441738625 0
 52D:\TEMPLATE2\node_modules\@parcel\cache\lib\index.js132943316441868307 0
 56D:\TEMPLATE2\node_modules\@parcel\cache\lib\LMDBCache.js132943316442027860 0
 54D:\TEMPLATE2\node_modules\@parcel\cache\lib\types.d.ts132943316442536489 0
+57D:\TEMPLATE2\node_modules\@parcel\bundler-default\LICENSE132943316463462695 0
 62D:\TEMPLATE2\node_modules\@parcel\bundler-default\package.json132943316463512563 0
 53D:\TEMPLATE2\node_modules\@parcel\bundler-default\src132943316463482623 1
 71D:\TEMPLATE2\node_modules\@parcel\bundler-default\src\DefaultBundler.js132943316463492595 0
@@ -4207,15 +4208,15 @@
 41D:\TEMPLATE2\node_modules\.bin\semver.cmd132943316569356092 0
 39D:\TEMPLATE2\node_modules\.bin\svgo.cmd132943316569356092 0
 41D:\TEMPLATE2\node_modules\.bin\terser.ps1132943316569415925 0
-37D:\TEMPLATE2\dist\icon_5.6379ab2b.png132946698781861276 0
-37D:\TEMPLATE2\dist\icon_6.d077fa79.png132946698783024773 0
-35D:\TEMPLATE2\dist\index.18dbc454.js132946698783024773 0
-36D:\TEMPLATE2\dist\index.b07a87f3.css132946731558371042 0
-40D:\TEMPLATE2\dist\index.b07a87f3.css.map132946731558381006 0
-38D:\TEMPLATE2\dist\person2.33e6a87a.jpg132946698783094612 0
-38D:\TEMPLATE2\dist\person4.872c3e1f.jpg132946698783094612 0
-37D:\TEMPLATE2\dist\work_1.c1b04e3e.jpg132946698781881225 0
-37D:\TEMPLATE2\dist\work_2.2cf0cc41.jpg132946698783074612 0
-37D:\TEMPLATE2\dist\work_4.ad9af3b3.jpg132946698783094612 0
-37D:\TEMPLATE2\dist\work_5.3ecbef69.jpg132946698781891201 0
-37D:\TEMPLATE2\dist\work_8.7ff6764e.jpg132946698783094612 0
+37D:\TEMPLATE2\dist\icon_5.6379ab2b.png132948686934578555 0
+37D:\TEMPLATE2\dist\icon_6.d077fa79.png132948686935322662 0
+35D:\TEMPLATE2\dist\index.18dbc454.js132948686935412439 0
+36D:\TEMPLATE2\dist\index.b07a87f3.css132948695207728209 0
+40D:\TEMPLATE2\dist\index.b07a87f3.css.map132948695207747919 0
+38D:\TEMPLATE2\dist\person2.33e6a87a.jpg132948686935362594 0
+38D:\TEMPLATE2\dist\person4.872c3e1f.jpg132948686935362594 0
+37D:\TEMPLATE2\dist\work_1.c1b04e3e.jpg132948686934608355 0
+37D:\TEMPLATE2\dist\work_2.2cf0cc41.jpg132948686935352605 0
+37D:\TEMPLATE2\dist\work_4.ad9af3b3.jpg132948686935352605 0
+37D:\TEMPLATE2\dist\work_5.3ecbef69.jpg132948686934618331 0
+37D:\TEMPLATE2\dist\work_8.7ff6764e.jpg132948686935362594 0
